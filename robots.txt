@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://sheicomai.calebprovost.com/sitemap.xml
